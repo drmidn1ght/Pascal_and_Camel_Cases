@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class Person 
+    { 
+            public string FullName { get; set; } 
+
+                public int Age { get; set; } 
+            }
+     
+        

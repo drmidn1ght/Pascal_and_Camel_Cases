@@ -8,4 +8,6 @@
 
             This wasn't made to execute anything, really, it's simply a way to practice conventions in C#. However, if you want to run the project for any reason, have in mind that this is a .NET console type project, so all you have to do is execute the program.cs files in one of the folders with the "dotnet run" command. 
 
-            
+            ## About me 
+
+            ## Contact info
